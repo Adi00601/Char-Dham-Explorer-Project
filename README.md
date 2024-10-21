@@ -1,4 +1,4 @@
-# Char-Dham-Explorer-Project
+# Char-Dham-Yatra-Explorer-Project
 
 The **Char Dham Yatra** website is a best platform dedicated to the spiritual journey of the Char Dham pilgrimage in India, which includes four sacred sites: Rameswaram, Jagannath, Dwarka , and Badrinath. This project aims to provide users with in-depth information about each of these revered destinations, helping them plan their pilgrimage and enrich their travel experience.
 

@@ -10,7 +10,5 @@ Users can navigate through the site effortlessly, accessing detailed description
 
 To run the project, simply download all the necessary files and open the `Landingpage.html` file using **VSCode** or any other integrated development environment (IDE). This setup ensures that you can experience the full functionality of the site, from smooth animations to rich content. 
 
-In conclusion, the Char Dham Yatra website serves as a valuable resource for anyone looking to explore these sacred destinations, offering insights that enhance their journey and deepen their understanding of the Char Dham pilgrimage.
-
 ** YOUTUBE VIDEO LINK - https://youtu.be/3R6GnoqbBZA **
 --- 

@@ -12,4 +12,5 @@ To run the project, simply download all the necessary files and open the `Landin
 
 In conclusion, the Char Dham Yatra website serves as a valuable resource for anyone looking to explore these sacred destinations, offering insights that enhance their journey and deepen their understanding of the Char Dham pilgrimage.
 
+** YOUTUBE VIDEO LINK - https://youtu.be/3R6GnoqbBZA **
 --- 

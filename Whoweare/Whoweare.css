@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+
+    width: 100%;
+    height: 100%;
+}
+
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: aquamarine;
+    position: relative;
+}
+
+#container{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    
+}
+
+#image{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    
+}
+
+#text{
+    width: 18%;
+    height: 5%;
+    /* background-color: blue; */
+    position: absolute;
+    top: 32%;
+    left: 42%;
+    color: #1E1A7A;
+  
+}
+
+#text1{
+    width: 50%;
+    height: 20%;
+    /* background-color: aqua; */
+    position: absolute;
+    top:41%;
+    left: 31%;
+    color: #FFD700;
+    font-family: Didot;
+    font-size: medium;
+}
+
+#bk{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    font-family:Didot;
+    font-size: 1rem;
+    color: black;
+    border: 1.5px solid black;
+    background-color: transparent;
+    font-weight: bold;
+    top: 3%;
+    left: 2%;
+}
+
